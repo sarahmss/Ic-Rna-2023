@@ -2,7 +2,7 @@
 
 **Projeto de Iniciação Científica — 2023**  
 **Área de pesquisa:** Inteligência Artificial, Redes Neurais e Otimização  
-**Grupo de pesquisa:** LaSIA — Laboratório de Sistemas Inteligentes e Automação  
+**Grupo de pesquisa:** LaSIA — Laboratório de Sistemas Inteligentes e Aplicados  
 
 ## Visão Geral
 
