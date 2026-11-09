@@ -42,6 +42,8 @@ The main concepts studied were:
 
 This progression was important for developing a solid understanding of what occurs internally during neural network training.
 
+<img width="1006" height="471" alt="image" src="https://github.com/user-attachments/assets/aa320646-2e15-4adc-b673-4ebcf1284b6c" />
+
 ---
 
 ## Main Objectives
@@ -59,36 +61,6 @@ To study the mathematical and computational foundations of artificial neural net
 - Implement the training process computationally;
 - Develop a neural network without relying entirely on high-level machine-learning frameworks;
 - Compare the conceptual differences between optimization strategies.
-
----
-
-## Mathematical Foundations
-
-An artificial neural network can be represented as a sequence of transformations in which the output of one layer becomes the input of the next.
-
-For a neuron, a simplified representation is:
-
-\[
-z = \sum_{i=1}^{n} w_i x_i + b
-\]
-
-followed by an activation function:
-
-\[
-y = f(z)
-\]
-
-where:
-
-- \(x_i\) are the input variables;
-- \(w_i\) are the network weights;
-- \(b\) is the bias;
-- \(f(\cdot)\) is the activation function;
-- \(y\) is the neuron output.
-
-During training, the network parameters are adjusted to minimize an error or loss function.
-
-This led naturally to the study of **numerical optimization**, which became one of the main subjects of the project.
 
 ---
 
